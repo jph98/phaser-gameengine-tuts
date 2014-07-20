@@ -9,6 +9,11 @@ The Phaser examples suite is here:
 
 http://gametest.mobi/phaser/examples/
 
+Introductions
+-------------
+
+Game Mechanic Explorer - http://gamemechanicexplorer.com/
+
 Examples
 --------
 
