@@ -9,4 +9,9 @@ The Phaser examples suite is here:
 
 http://gametest.mobi/phaser/examples/
 
+Examples
+--------
 
+http://phasertutorials.com/2014/05/21/lets-build-a-html5-game-together-part-1/
+
+Shoot Em Up - https://leanpub.com/html5shootemupinanafternoon/read
