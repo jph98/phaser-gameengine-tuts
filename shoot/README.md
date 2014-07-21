@@ -1,0 +1,1 @@
+https://leanpub.com/html5shootemupinanafternoon/read
