@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [:CordovaLib] C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:6:5-44
+		INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:3:5-39
+	xmlns:android
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:7:5-63
+	android:versionCode
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:8:5-14:40
+	android:largeScreens
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:12:9-35
+	android:anyDensity
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:9:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:15:22-64
+application
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:16:5-34:19
+	android:supportsRtl
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:17:9-43
+	android:icon
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:18:9-36
+activity#com.emanueleferonato.game4096.MainActivity
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:21:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:24:13-50
+	android:launchMode
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:25:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:28:13-55
+	android:configChanges
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:23:13-90
+	android:theme
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:27:13-75
+	android:name
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:26:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:29:13-32:29
+	android:label
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:29:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:35:5-74
+MERGED from [:CordovaLib] C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+	android:targetSdkVersion
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:35:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\Triqui\Dropbox\Libri scritti\HTML5 Cross Platform Game Development Using Phaser 3\android\app\src\main\AndroidManifest.xml:35:15-41

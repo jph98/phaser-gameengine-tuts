@@ -1,0 +1,4 @@
+#Tue Aug 28 08:56:57 CEST 2018
+base.0=C\:\\Users\\Triqui\\Dropbox\\Libri scritti\\HTML5 Cross Platform Game Development Using Phaser 3\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
